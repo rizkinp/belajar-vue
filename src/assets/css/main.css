@@ -1,0 +1,29 @@
+#app {
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto Mono", monospace;
+
+  width: 65%; /* Mengatur lebar elemen menjadi 75% dari lebar parent */
+  margin: 0 auto; /* Membuat elemen rata kanan dan kiri */
+}
+.router-link-exact-active {
+  font-weight: bold;
+}
+.btn-success {
+    background-color: #2ecc71;
+}
+
+.card-product{
+  border-radius: 20px;
+}
+
+.card-img-top{
+  border-top-right-radius: 20px;
+}
+
+
+.social-icons a {
+  color: #ffffff;
+  margin: 0 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
