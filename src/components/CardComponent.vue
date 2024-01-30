@@ -4,7 +4,7 @@
     <div class="card-body">
       <h5 class="card-title">{{ product.nama }}</h5>
       <p class="card-text" style="max-height: 100px; overflow: hidden;">{{ product.harga }}</p>
-      <a href="#" class="btn btn-primary"><i class="bi bi-bag-dash"></i> Pesan Sekarang</a>
+      <router-link :to="'food/'+ product.id" class="btn btn-primary"><i class="bi bi-bag-dash"></i> Pesan Sekarang</router-link>
     </div>
   </div>
 </template>

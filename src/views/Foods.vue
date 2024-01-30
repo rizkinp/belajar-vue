@@ -37,12 +37,14 @@
             </div>
         </div>
     </div>
+    <Footer/>
 </template>
 
 <script>
 import axios from "axios";
 import Navbar from "@/components/Navbar.vue";
 import CardComponent from "@/components/CardComponent.vue";
+import Footer from "@/components/Footer.vue";
 
 export default {
     // eslint-disable-next-line vue/multi-word-component-names
@@ -50,6 +52,7 @@ export default {
     components: {
         Navbar,
         CardComponent,
+        Footer
     },
     data() {
         return {
