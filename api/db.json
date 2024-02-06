@@ -101,123 +101,16 @@
   ],
   "keranjangs": [
     {
-      "id": "cc27"
-    },
-    {
-      "id": "cd0f",
-      "jumlah_pesanan": 12,
-      "keterangan": "halooo",
-      "products": {
-        "id": "1",
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      }
-    },
-    {
-      "id": "5d05",
-      "jumlah_pesanan": 3,
-      "keterangan": "ffddf",
-      "products": {
-        "id": "1",
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      }
-    },
-    {
-      "id": "ac09",
-      "jumlah_pesanan": 3,
-      "keterangan": "ddad",
-      "products": {
-        "id": "1",
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      }
-    },
-    {
-      "id": "563d",
-      "jumlah_pesanan": 3,
-      "keterangan": "ddad",
-      "products": {
-        "id": "1",
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      }
-    },
-    {
-      "id": "f3de",
-      "jumlah_pesanan": 3,
-      "keterangan": "ddad",
-      "products": {
-        "id": "1",
-        "kode": "K-01",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg"
-      }
-    },
-    {
-      "id": "8aab",
-      "jumlah_pesanan": 2,
-      "keterangan": "tesssss",
-      "products": {
-        "id": "6",
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
-        "is_ready": true,
-        "gambar": "bakso.jpg"
-      }
-    },
-    {
-      "id": "f741",
-      "jumlah_pesanan": 1,
-      "keterangan": "wdddw",
-      "products": {
-        "id": "6",
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
-        "is_ready": true,
-        "gambar": "bakso.jpg"
-      }
-    },
-    {
-      "id": "5cf4",
-      "jumlah_pesanan": 1,
-      "keterangan": "wdddw",
-      "products": {
-        "id": "6",
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
-        "is_ready": true,
-        "gambar": "bakso.jpg"
-      }
-    },
-    {
-      "id": "7863",
-      "jumlah_pesanan": 1,
+      "id": "8d5f",
+      "jumlah_pesanan": 4,
       "keterangan": "",
       "products": {
-        "id": "6",
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
+        "id": "3",
+        "kode": "K-03",
+        "nama": "Nasi Rames",
+        "harga": 12000,
         "is_ready": true,
-        "gambar": "bakso.jpg"
+        "gambar": "nasi-rames.jpg"
       }
     }
   ],

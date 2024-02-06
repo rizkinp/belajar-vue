@@ -111,14 +111,6 @@ export default {
 </script>
 
 <style scoped>
-.breadcrumb-left {
-    float: left;
-    margin-bottom: 10px;
-    /* Menghilangkan margin bawah */
-    margin-right: auto;
-    margin-left: 0;
-    /* Menggeser breadcrumb ke paling kiri */
-}
 
 .btn {
     margin-top: 20px;
