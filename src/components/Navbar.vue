@@ -66,7 +66,6 @@ export default {
       .get("http://localhost:3000/keranjangs/")
       .then((response) => {
         this.setJumlah(response.data);
-        console.log("Data Berhasil");
       })
       .catch((error) => console.log("Response", error));
   },
