@@ -99,57 +99,63 @@
       "gambar": "lontong-opor-ayam.jpg"
     }
   ],
-  "keranjangs": [],
+  "keranjangs": [
+    {
+      "id": "4c51",
+      "jumlah_pesanan": 1,
+      "keterangan": "Pedas\n",
+      "products": {
+        "id": "1",
+        "kode": "K-01",
+        "nama": "Sate Ayam",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "sate-ayam.jpg"
+      }
+    }
+  ],
   "pesanans": [
     {
-      "id": "b074",
-      "nama": "Rizki Nur Pratama",
-      "noMeja": 20,
+      "nama": "Afif",
+      "noMeja": "3",
       "keranjangs": [
         {
-          "id": "382e",
-          "jumlah_pesanan": 5,
-          "keterangan": "Pedas mas",
+          "jumlah_pemesanan": "1",
+          "keterangan": "Pedes",
           "products": {
-            "id": "1",
+            "id": 1,
             "kode": "K-01",
             "nama": "Sate Ayam",
             "harga": 16000,
             "is_ready": true,
             "gambar": "sate-ayam.jpg"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1487",
-      "nama": "Rizki Nur Pratama",
-      "noMeja": 20,
-      "keranjangs": [
+          },
+          "id": 1
+        },
         {
-          "id": "382e",
-          "jumlah_pesanan": 5,
-          "keterangan": "Pedas mas",
+          "jumlah_pemesanan": "1",
           "products": {
-            "id": "1",
-            "kode": "K-01",
-            "nama": "Sate Ayam",
-            "harga": 16000,
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
             "is_ready": true,
-            "gambar": "sate-ayam.jpg"
-          }
+            "gambar": "nasi-goreng-telor.jpg"
+          },
+          "id": 2
         }
-      ]
+      ],
+      "id": "1"
     },
     {
-      "id": "7bd8",
-      "nama": "diana",
-      "noMeja": 200,
+      "id": "761b",
+      "nama": "Putri",
+      "noMeja": 23,
       "keranjangs": [
         {
-          "id": "0460",
+          "id": "2981",
           "jumlah_pesanan": 4,
-          "keterangan": "Asin",
+          "keterangan": "Pedas",
           "products": {
             "id": "2",
             "kode": "K-02",
@@ -158,25 +164,38 @@
             "is_ready": true,
             "gambar": "nasi-goreng-telor.jpg"
           }
+        },
+        {
+          "id": "8b55",
+          "jumlah_pesanan": 2,
+          "keterangan": "asin",
+          "products": {
+            "id": "4",
+            "kode": "K-04",
+            "nama": "Mie Ayam Bakso",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "mie-ayam-bakso.jpg"
+          }
         }
       ]
     },
     {
-      "id": "d1ac",
-      "nama": "Putri",
+      "id": "8289",
+      "nama": "RIzki",
       "noMeja": 20,
       "keranjangs": [
         {
-          "id": "b48b",
+          "id": "0418",
           "jumlah_pesanan": 4,
-          "keterangan": "Asin",
+          "keterangan": "Pedas",
           "products": {
-            "id": "3",
-            "kode": "K-03",
-            "nama": "Nasi Rames",
-            "harga": 12000,
+            "id": "2",
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
             "is_ready": true,
-            "gambar": "nasi-rames.jpg"
+            "gambar": "nasi-goreng-telor.jpg"
           }
         }
       ]
